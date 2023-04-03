@@ -31,7 +31,7 @@
     <ProductName>PrintSystemGUI</ProductName>
     <PublisherName>Miphonya</PublisherName>
     <SuiteName>PrintSystem</SuiteName>
-    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationRevision>4</ApplicationRevision>
     <ApplicationVersion>1.1.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
@@ -96,9 +96,6 @@
     </Reference>
     <Reference Include="MvvmCross, Version=8.0.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\MvvmCross.8.0.1\lib\net461\MvvmCross.dll</HintPath>
-    </Reference>
-    <Reference Include="MvvmCross.Plugin.WebBrowser, Version=8.0.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\MvvmCross.Plugin.WebBrowser.8.0.1\lib\net461\MvvmCross.Plugin.WebBrowser.dll</HintPath>
     </Reference>
     <Reference Include="PdfiumViewer, Version=2.13.0.0, Culture=neutral, PublicKeyToken=91e4789cfb0609e0, processorArchitecture=MSIL">
       <HintPath>packages\PdfiumViewer.2.13.0.0\lib\net20\PdfiumViewer.dll</HintPath>

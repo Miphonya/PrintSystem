@@ -202,7 +202,7 @@
             this.materialCheckBox2.Ripple = true;
             this.materialCheckBox2.Size = new System.Drawing.Size(148, 30);
             this.materialCheckBox2.TabIndex = 24;
-            this.materialCheckBox2.Text = "Dublex Printing";
+            this.materialCheckBox2.Text = "Duplex Printing";
             this.materialCheckBox2.UseVisualStyleBackColor = true;
             this.materialCheckBox2.CheckedChanged += new System.EventHandler(this.materialCheckBox2_CheckedChanged);
             // 
