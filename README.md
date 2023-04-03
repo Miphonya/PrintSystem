@@ -1,4 +1,4 @@
-#PrintSystem
+##PrintSystem
 
 PrintSystem comes in two versions, the GUI version which has a graphical user interface, and the CLI version which is terminal-only.
 
@@ -14,19 +14,19 @@ The software will likely receive updates in the future, but this is not guarante
 🌟 No data saved all is on local
 🗺 Multilanguage [Very soon]
 
-#🏃‍♀️ How to install
+##🏃‍♀️ How to install
 To install the software, go to the releases page and select the version that suits you, double click on "Setup.exe" and you're done! For the portable version, simply click on the shortcut.
 <br> NOTE: YOU NEED DOTNET 4.8.1 OR A LATER VERSION.
 
-#🔨 Built with
+##🔨 Built with
 🧠 My little brain
 100% C#
 .net 4.8.1
 
-#📜 ChangeLogs
+##📜 ChangeLogs
 Version 1.0.0:Original release.
 
-#📚 CREDIT
+##📚 CREDIT
 MaterialSkin & MaterialSkin.Updated by Ignace Maes (https://github.com/IgnaceMaes/MaterialSkin)
 <br>
 Microsoft DOTNET (https://dot.net)
