@@ -24,6 +24,8 @@ To install the software, go to the releases page and select the version that sui
 -   .net 4.8.1
 
 # 📜 ChangeLogs
+-   Version 1.1.0.1 : Correction of a typo.
+-   Version 1.1.0 : Adding a feature to print all the Files in a folder.
 -   Version 1.0.0 : Original release.
 
 # 📚 CREDIT
