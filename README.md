@@ -11,8 +11,7 @@ The software will likely receive updates in the future, but this is not guarante
 -   🚮 Ability to automatically delete files after printing
 -   💫 Duplex function
 -   🛡 Privacy focused
--   🌟 No data saved all is on local
--   🗺 Multilanguage [Very soon]
+-   🌟 No data saved in server, all is on local
 
 # 🏃‍♀️ How to install
 To install the software, go to the releases page and select the version that suits you, double click on "Setup.exe" and you're done! For the portable version, simply click on the shortcut.
