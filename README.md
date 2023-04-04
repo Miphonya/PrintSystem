@@ -16,6 +16,8 @@ The software will likely receive updates in the future, but this is not guarante
 
 # 🏃‍♀️ How to install
 To install the software, go to the releases page and select the version that suits you, double click on "Setup.exe" and you're done! For the portable version, simply click on the shortcut.
+<br>
+To use the CLI version, you must provide its arguments in this format: --folderPath=c:\work\ --monochrome=false --printer="\papercut.entrepsie.exemple.ch\MyPrinter" --isPrintduplex=Vertical.
 <br> NOTE: YOU NEED DOTNET 4.8.1 OR A LATER VERSION.
 
 # 🔨 Built with
